@@ -4,9 +4,9 @@
   "description": "testing express crud in typescript",
   "main": "build/index.js",
   "scripts": {
-	  "start": "ts-node src/app.ts",
-  	  "build": "tsc",
-  	  "serve":"node build/app.js"
+  "start": "ts-node src/app.ts",
+  "build": "tsc",
+  "serve": "node build/app.js"
 },
   "repository": {
     "type": "git",
